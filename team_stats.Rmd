@@ -34,3 +34,9 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 plot(rnorm(10),rnorm(10))
 ```
 
+
+```{r}
+plot(1:10, 10:1)
+```
+
+
